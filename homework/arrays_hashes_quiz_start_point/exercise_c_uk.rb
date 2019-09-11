@@ -42,6 +42,8 @@ united_kingdom = [
 
 # 4. Use a loop to find the total population of the UK.
 
+# found it difficult to run this loop without an error when the above code wasnt commented out, once above code was commented out the loop worked fine
+
 # total_population = 0
 #
 # for population_of_uk in united_kingdom

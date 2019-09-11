@@ -1,3 +1,5 @@
+# Struggled a fair amount with this exercise, would like a recap on functions if possible
+
 users = {
   "Jonathan" => {
     :twitter => "jonnyt",
